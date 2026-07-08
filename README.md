@@ -1,1 +1,3 @@
 # origin
+- Nobuaki Kawagishi
+- Japanese
